@@ -2,7 +2,7 @@ name: GitHub Contribution Snake
 
 on:
   schedule:
-    - cron: '0 0 * * *' # har kuni yarim kechada ishlaydi
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
 jobs:
@@ -15,5 +15,13 @@ jobs:
       - name: Generate Snake
         uses: platane/snk@v1
         with:
-          github_user_name: Asvell-ai       # GitHub username
-          svg_out_path: output/github-contribution-grid-snake.svg  # SVG qayerga hosil bo‘ladi
+          github_user_name: Asvell-ai
+          svg_out_path: output/github-contribution-grid-snake.svg
+
+      - name: Commit Snake SVG
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add output/github-contribution-grid-snake.svg
+          git commit -m "Update GitHub Contribution Snake" || echo "No changes to commit"
+          git push

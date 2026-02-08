@@ -54,7 +54,6 @@
 <ul>
   <li>📱 E-commerce App</li>
   <li>📱 Auth With AppWrite Backend</li>
-  
   <li>🧩 Clean Architecture Flutter projects</li>
 </ul>
 

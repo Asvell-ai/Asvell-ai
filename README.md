@@ -1,9 +1,12 @@
+<!-- ===================== WAVE TOP ===================== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4e54c8,100:8f94fb&height=180&section=header&text=Welcome!&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+
 <!-- ===================== HEADER ===================== -->
 <h1 align="center">Hi 👋, I'm Asadulloh</h1>
 <h3 align="center">Flutter Developer | Mobile App Builder 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Flutter+Developer;Clean+Architecture+Lover;Building+Real+Products;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Flutter+Developer;Clean+Architecture+Lover;Building+Real+Products;Always+Learning+New+Things" />
 </p>
 
 <p align="center">
@@ -24,16 +27,32 @@
 
 <hr/>
 
+<!-- ===================== CURRENTLY LEARNING ===================== -->
+<h2>🧠 Currently Learning</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&center=true&vCenter=true&width=600&lines=Advanced+Flutter+Architecture;AI+Integration+in+Mobile+Apps;Clean+Code+Best+Practices" />
+</p>
+
+<hr/>
+
 <!-- ===================== TECH STACK ===================== -->
 <h2>🛠 Tech Stack</h2>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github," />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github&theme=light" />
 </p>
 
 <hr/>
 
 <!-- ===================== GITHUB STATS ===================== -->
+<h2>📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Asvell-ai&show_icons=true&theme=tokyonight" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asvell-ai&layout=compact&theme=tokyonight" />
+</p>
 
 <hr/>
 
@@ -46,6 +65,14 @@
 
 <hr/>
 
+<!-- ===================== SNAKE ===================== -->
+<h2>🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://github.com/Asvell-ai/Asvell-ai/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
+  <img src="https://github.com/Asvell-ai/Asvell-ai/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
+</p>
+
 <hr/>
 
 <!-- ===================== PROJECTS ===================== -->
@@ -53,8 +80,8 @@
 
 <ul>
   <li>📱 E-commerce App</li>
-  <li>📱 Auth With AppWrite Backend</li>
-  <li>🧩 Clean Architecture Flutter projects</li>
+  <li>🔐 Auth with AppWrite Backend</li>
+  <li>🧩 Clean Architecture Flutter Projects</li>
 </ul>
 
 <hr/>
@@ -62,13 +89,13 @@
 <!-- ===================== CONTACT ===================== -->
 <h2>🌐 Connect with Me</h2>
 
-<p>
-  <a href="https://t.me/asadulloh_fx">
-    <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
+<p align="center">
+  <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
-  <a href="https://linkedin.com/in/asadulloh-sayfiddinov">
-    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://t.me/asadulloh_fx">
+    <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 
   <a href="mailto:sayfiddinovasadulloh800@gmail.com">
@@ -82,3 +109,6 @@
 <p align="center">
   💡 <i>"Code. Learn. Build. Repeat."</i>
 </p>
+
+<!-- ===================== WAVE BOTTOM ===================== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8f94fb,100:4e54c8&height=120&section=footer" />

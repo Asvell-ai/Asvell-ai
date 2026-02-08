@@ -17,4 +17,5 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           target_repo: ${{ github.repository }}
+          output: output/github-contribution-grid-snake.svg
           color: "4e54c8" # Snake rangi

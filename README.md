@@ -45,14 +45,7 @@
 
 <hr/>
 
-<!-- ===================== GITHUB STATS ===================== -->
-<h2>📊 GitHub Stats</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Asvell-ai&show_icons=true&theme=tokyonight" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asvell-ai&layout=compact&theme=tokyonight" />
-</p>
 
 <hr/>
 
@@ -64,13 +57,6 @@
 </p>
 
 <hr/>
-
-<!-- ===================== SNAKE ===================== -->
-<h2>🐍 Contribution Snake</h2>
-<p align="center">
-  <img src="https://github.com/Asvell-ai/Asvell-ai/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
-  <img src="https://github.com/Asvell-ai/Asvell-ai/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only" />
-</p>
 
 
 <hr/>

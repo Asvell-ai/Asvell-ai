@@ -15,7 +15,5 @@ jobs:
       - name: Generate Snake
         uses: platane/snk@v1
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          target_repo: ${{ github.repository }}
-          output: output/github-contribution-grid-snake.svg
-          color: "4e54c8" # Snake rangi
+          github_user_name: Asvell-ai       # GitHub username
+          svg_out_path: output/github-contribution-grid-snake.svg  # SVG qayerga hosil bo‘ladi

@@ -27,6 +27,21 @@
 
 <hr/>
 
+<hr/>
+
+<!-- ===================== PROJECTS ===================== -->
+<h2>📌 Featured Projects</h2>
+
+<ul>
+  <li>📱 E-commerce App</li>
+  <li>📱 StartApp</li>
+  <li>👾 AnimeApp</li>
+  <li>🔐 Auth with AppWrite Backend</li>
+  <li>🧩 Clean Architecture Flutter Projects</li>
+</ul>
+
+<hr/>
+
 <!-- ===================== CURRENTLY LEARNING ===================== -->
 <h2>🧠 Currently Learning</h2>
 
@@ -59,20 +74,6 @@
 <hr/>
 
 
-<hr/>
-
-<!-- ===================== PROJECTS ===================== -->
-<h2>📌 Featured Projects</h2>
-
-<ul>
-  <li>📱 E-commerce App</li>
-  <li>📱 StartApp</li>
-  <li>👾 AnimeApp</li>
-  <li>🔐 Auth with AppWrite Backend</li>
-  <li>🧩 Clean Architecture Flutter Projects</li>
-</ul>
-
-<hr/>
 
 <!-- ===================== CONTACT ===================== -->
 <h2>🌐 Connect with Me</h2>

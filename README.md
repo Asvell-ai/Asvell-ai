@@ -36,6 +36,7 @@
   <li>📱 E-commerce App</li>
   <li>📱 StartApp</li>
   <li>👾 AnimeApp</li>
+  <li>👾 TradingJournalApp</li>
   <li>🔐 Auth with AppWrite Backend</li>
   <li>🧩 Clean Architecture Flutter Projects</li>
 </ul>

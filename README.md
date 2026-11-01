@@ -1,12 +1,12 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Asadulloh&fontSize=72&fontColor=ffffff&fontAlignY=40&desc=Flutter%20Developer&descSize=24&descColor=8F94FB&descAlignY=62&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,100:4e54c8&height=320&section=header&text=Asadulloh&fontSize=90&fontColor=ffffff&fontAlignY=42&desc=Flutter%20Developer&descSize=30&descColor=c7c9ff&descAlignY=64&animation=fadeIn" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=8F94FB&center=true&vCenter=true&width=600&lines=Building+beautiful+mobile+apps;Clean+Architecture+Lover;Turning+ideas+into+real+products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=8F94FB&center=true&vCenter=true&width=900&height=60&lines=Building+beautiful+mobile+apps;Clean+Architecture+Lover;Turning+ideas+into+real+products" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Asvell-ai&style=for-the-badge&color=302b63&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/Asvell-ai?style=for-the-badge&color=302b63&label=FOLLOWERS" />
+  <img src="https://komarev.com/ghpvc/?username=Asvell-ai&style=for-the-badge&color=4e54c8&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/Asvell-ai?style=for-the-badge&color=4e54c8&label=FOLLOWERS" />
 </p>
 
 <br/>
@@ -44,11 +44,11 @@
 <h2 align="center">✦ Let's Connect</h2>
 
 <p align="center">
-  <a href="https://t.me/ablzn"><img src="https://img.shields.io/badge/Telegram-@ablzn-0088cc?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://instagram.com/sayfiddinov_dev"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:sayfiddinovasadulloh800@gmail.com"><img src="https://img.shields.io/badge/Email-d14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://t.me/ablzn"><img src="https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://instagram.com/sayfiddinov_dev"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:sayfiddinovasadulloh800@gmail.com"><img src="https://img.shields.io/badge/-Email-d14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center"><i>"Code. Learn. Build. Repeat."</i></p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4e54c8,60:302b63,100:0f0c29&height=140&section=footer" width="100%" />
